@@ -16,8 +16,6 @@ const srv = http.createServer((req, res) => {
             <meta charset="UTF-8">
             <meta name="viewport" content="width=device-width, initial-scale=1.0>
             <meta http-equiv="X-UA-Compatible" content="ie=edge">
-            <title>Fabio Machado</title>
-            <link rel="stylesheet" href="css\estilos.css">
             <title>Servidor HTTP</title>
         </head>
         <body>
